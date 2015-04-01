@@ -1,5 +1,5 @@
 # UnavailableCategorySnippets
-Convenient snippets to create class category for NS_UNAVALIABLE constructors
+Convenient snippets to create class category for NS_UNAVAILABLE constructors
 
 ##Install:
 
