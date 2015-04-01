@@ -3,11 +3,11 @@ Convenient snippets to create class category for NS_UNAVALIABLE constructors
 
 ##Usage:
 
-Start typing: "unava":
+Start typing: "unava...":
 
 ![Snippet call](/screenshots/1.png)
 
-Choose:
+###Choose:
 
 NSObject one:
 
